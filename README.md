@@ -1,11 +1,5 @@
 # 🤖 Smart AI Agent: RAG, Web Search & LangGraph
 
-![Smart AI Agent Thumbnail](assets/agentBot.png)
-
-🔗 **[Download Project PDF](assets/agentBot.pdf)**
-
----
-
 This repository contains the code for a sophisticated AI Agent application capable of answering user queries by intelligently leveraging both a private, custom knowledge base (using Retrieval-Augmented Generation - RAG) and real-time web search. Users have granular control over the web search feature, enhancing flexibility and transparency.
 
 ---
@@ -193,4 +187,4 @@ streamlit run frontend/app.py
 
 Feel free to open issues or PRs for suggestions, bugs, or enhancements.
 
-> Built with ❤️ using LangGraph, LangChain, Groq, and Streamlit
+

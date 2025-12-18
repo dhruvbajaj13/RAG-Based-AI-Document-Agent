@@ -1,8 +1,8 @@
 # 🤖 Smart AI Agent: RAG, Web Search & LangGraph
 
-This repository contains the code for a sophisticated AI Agent application capable of answering user queries by intelligently leveraging both a private, custom knowledge base (using Retrieval-Augmented Generation - RAG) and real-time web search. Users have granular control over the web search feature, enhancing flexibility and transparency.
-
----
+A production-grade AI Agent that intelligently answers user queries by combining a private knowledge base (RAG) with real-time web search, powered by LangGraph orchestration.
+The system emphasizes transparency, control, and modular design, making it easy to understand, debug, and extend.
+--
 
 ## ✨ Key Features
 

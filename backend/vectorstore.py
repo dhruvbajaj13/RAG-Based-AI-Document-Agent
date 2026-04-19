@@ -7,7 +7,7 @@ from langchain_huggingface import HuggingFaceEmbeddings # Changed to HuggingFace
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 # Import API keys from config (only Pinecone is needed here now)
-from config import PINECONE_API_KEY
+from backend.config import PINECONE_API_KEY
 
 # Set environment variables for Pinecone
 os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY

@@ -12,9 +12,8 @@ from langgraph.checkpoint.memory import MemorySaver
 from langchain_community.document_loaders import PyPDFLoader
 
 
-
-from agent import rag_agent
-from vectorstore import add_document_to_vectorstore
+from backend.agent import rag_agent
+from backend.vectorstore import add_document_to_vectorstore
 
 # Initialize FastAPI app
 app = FastAPI(
